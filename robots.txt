@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://hoji-sonji.github.io/nji-1/sitemap.xml
